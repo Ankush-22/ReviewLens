@@ -41,8 +41,8 @@ Fake reviews are a significant problem in the digital economy. This project uses
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ReveiwLens.git
-cd ReveiwLens
+git clone https://github.com/Ankush-22/ReviewLens.git
+cd ReviewLens
 ```
 
 ### 2. Create a Virtual Environment
