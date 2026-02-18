@@ -72,9 +72,3 @@ Open your browser and navigate to `http://127.0.0.1:5000`.
 3. **Classification**: A pre-trained hybrid model (Random Forest/SVM) predicts the likelihood of the review being fake.
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
